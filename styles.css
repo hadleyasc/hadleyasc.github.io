@@ -1,0 +1,9 @@
+body {
+    background:lightblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    color: darkred;
+    text-align: center;
+}
